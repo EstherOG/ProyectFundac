@@ -1,0 +1,149 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/Fondo1"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/ondo2"
+            android:orientation="vertical">
+
+
+            <Button
+                android:id="@+id/bo11"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="10dp"
+                android:background="#BE41CFEC"
+                android:drawableLeft="@android:drawable/ic_menu_revert"
+                android:drawableRight="@drawable/empresa"
+                android:shadowColor="#9C27B0"
+                android:text="fundaciones"
+                android:textColor="#222222"
+                android:textColorLink="#222222"
+                android:textSize="22sp" />
+
+
+            <Button
+                android:id="@+id/bo1"
+                android:layout_width="304dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="10dp"
+                android:background="#86FFFFFF"
+                android:shadowColor="#9C27B0"
+                android:text="fundación 1"
+                android:textColor="#222222"
+                android:textColorLink="#222222"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/b02"
+                android:layout_width="301dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="10dp"
+                android:background="#86FFFFFF"
+                android:shadowColor="#9C27B0"
+                android:text="fundación 2"
+                android:textColor="#222222"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/bo3"
+                android:layout_width="301dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="10dp"
+                android:background="#86FFFFFF"
+                android:text="fundación 3"
+                android:textColor="#222222"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/bo4"
+                android:layout_width="299dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="10dp"
+                android:background="#86FFFFFF"
+                android:text="fundación 4"
+                android:textColor="#222222"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/bo5"
+                android:layout_width="295dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="10dp"
+                android:background="#86FFFFFF"
+                android:text="fundación 5"
+                android:textColor="#222222"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/bo6"
+                android:layout_width="298dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="10dp"
+                android:background="#86FFFFFF"
+                android:text="fundación 6"
+                android:textColor="#222222"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/bo7"
+                android:layout_width="298dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="10dp"
+                android:background="#86FFFFFF"
+                android:text="fundación 7"
+                android:textColor="#222222"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/bo8"
+                android:layout_width="295dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="10dp"
+                android:background="#86FFFFFF"
+                android:text="fundación 8"
+                android:textColor="#222222"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/bo9"
+                android:layout_width="295dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="10dp"
+                android:background="#86FFFFFF"
+                android:text="fundación 9"
+                android:textColor="#222222"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/bo10"
+                android:layout_width="295dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_margin="10dp"
+                android:background="#86FFFFFF"
+                android:text="fundación 10"
+                android:textColor="#222222"
+                android:textSize="20sp" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
